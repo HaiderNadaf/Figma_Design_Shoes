@@ -1,0 +1,38 @@
+.contant{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.poppins-paragraph {
+  font-weight: 800px;
+  line-height: 102px;
+  font-size: 108px;
+  margin-left: 50px;
+}
+
+.infor{
+ display: flex;
+ flex-direction: column;
+ gap: 36px;
+ margin-left: 50px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+
+.buttons{
+  margin: 0px 0px 33px 0px;
+}
+.para{
+  margin-left: 108px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+
+}
+
